@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor focado em **transformar problemas complexos em soluções eficientes**. Com 3 anos de experiência e base técnica pelo IFRS, atuo na construção de arquiteturas escaláveis, estabilização de sistemas legados e automação de processos que geram economia real de recursos.
 
-- 🔭 **Atualmente trabalhando em:** Refatoração de Dashboard de Métricas (React + TS) focada em Clean Architecture.
+- 🔭 **Atualmente trabalhando em:** Criação de soluções escaláveis, estabilização de legados e automação de processos.
 - 💼 **Experiência:** Migrações críticas de dados (+300 clientes), Otimização de APIs e Sistemas de Alta Disponibilidade.
 - 💬 **Pergunte-me sobre:** Laravel, Node.js, Performance de Banco de Dados e Clean Code.
 
@@ -15,7 +15,7 @@ Sou um desenvolvedor focado em **transformar problemas complexos em soluções e
 **Backend & Arquitetura**
 <div style="display: inline_block">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -46,8 +46,8 @@ Sou um desenvolvedor focado em **transformar problemas complexos em soluções e
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreKonrad&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreKonrad&layout=compact&theme=omni"/>
 </div>
 
 ---
@@ -55,7 +55,7 @@ Sou um desenvolvedor focado em **transformar problemas complexos em soluções e
 ## 📫 Vamos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/alexandre-konrad-b91853228/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:alexandrekonradnetwork@gmail.com">
